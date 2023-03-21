@@ -1,0 +1,4 @@
+﻿1 - bulid the console 
+2- in powershell/cli go to path in your pc and enter the exeutin file > cd C:\path\to\project\bin\Debug\net6.0 then press enter
+3- write the name of exution file like this : ConvertXmltoJson.exe C:\path\to\input.xml C:\path\to\output.json
+4- then press enter that will be fill the output.json with data 
